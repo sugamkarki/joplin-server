@@ -1,0 +1,1 @@
+{"version":3,"file":"paymentFailedTemplate.js","sourceRoot":"","sources":["../../../src/views/emails/paymentFailedTemplate.ts"],"names":[],"mappings":";;AAAA,6DAAsD;AACtD,yCAAkC;AAElC,mDAAuD;AAEvD;IACC,OAAO;QACN,OAAO,EAAE,GAAG,gBAAM,EAAE,CAAC,OAAO,8BAA8B;QAC1D,IAAI,EAAE;;;;;6BAKqB,uBAAa,CAAC,aAAa,CAAC,0BAAe,EAAE,CAAC;;;;;;;CAO1E;aACG,IAAI,EAAE;KACR,CAAC;AACH,CAAC;AAlBD,4BAkBC"}

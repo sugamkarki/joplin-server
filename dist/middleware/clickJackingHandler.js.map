@@ -1,0 +1,1 @@
+{"version":3,"file":"clickJackingHandler.js","sourceRoot":"","sources":["../../src/middleware/clickJackingHandler.ts"],"names":[],"mappings":";;;;;;;;;;;AAEA,mBAA8B,GAAe,EAAE,IAAa;;QAC3D,uFAAuF;QACvF,GAAG,CAAC,QAAQ,CAAC,GAAG,CAAC,yBAAyB,EAAE,0BAA0B,CAAC,CAAC;QACxE,GAAG,CAAC,QAAQ,CAAC,GAAG,CAAC,iBAAiB,EAAE,MAAM,CAAC,CAAC;QAC5C,OAAO,IAAI,EAAE,CAAC;IACf,CAAC;CAAA;AALD,4BAKC"}

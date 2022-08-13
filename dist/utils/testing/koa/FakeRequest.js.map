@@ -1,0 +1,1 @@
+{"version":3,"file":"FakeRequest.js","sourceRoot":"","sources":["../../../../src/utils/testing/koa/FakeRequest.ts"],"names":[],"mappings":";;AAAA,MAAqB,WAAW;IAI/B,YAAmB,WAAgB;QAClC,IAAI,CAAC,IAAI,GAAG,WAAW,CAAC;IACzB,CAAC;IAED,IAAW,MAAM;QAChB,OAAO,IAAI,CAAC,IAAI,CAAC,MAAM,IAAI,KAAK,CAAC;IAClC,CAAC;CAED;AAZD,8BAYC"}
